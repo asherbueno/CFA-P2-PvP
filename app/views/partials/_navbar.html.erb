@@ -3,11 +3,13 @@
     <div class="nav-wrapper">
       <a href="#" class="brand-logo">Logo</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><%= link_to 'Buy', posts_path %></li>
-          <% if user_signed_in? %>
+        <% if user_signed_in? %>
+           <li><%= current_user.email %>
+           <li><%= link_to 'Buy', posts_path %></li>
             <li><%= link_to 'Sell', new_post_path %></li>
             <li><%= link_to 'Donate', pages_donate_path %></li>
         <% else %>
+            <li><%= link_to 'Buy', posts_path %></li>
             <li><%= link_to 'Sell', new_user_registration_path %></li>
             <li><%= link_to 'Donate', pages_donate_path %></li>
         <% end %>

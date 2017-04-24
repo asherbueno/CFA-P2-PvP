@@ -1,0 +1,8 @@
+<% if user_signed_in? %>
+  <li><a href="#"><i class="material-icons">perm_identity</i></a></li>
+  <li><%= link_to('Logout', destroy_user_session_path, :method => :delete) %></li>
+<% else %>
+  <li>
+  <%= link_to('Login', new_user_session_path)  %>
+  </li>
+<% end %>

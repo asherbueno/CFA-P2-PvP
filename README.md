@@ -1,9 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Installation
 
-Things you may want to cover:
+git clone https://github.com/asherbueno/CFA-P2-PvP.git
+cd .. CFA-P2-PVP
+bundle
+rails db:create
+rails db:migrate
+rails s
+
+
 
 * Ruby version
 

@@ -2,23 +2,17 @@
   <% if post.errors.any? %>
     <div id="error_explanation">
       <h2><%= pluralize(post.errors.count, "error") %> prohibited this post from being saved:</h2>
-
-      <ul>
-      <% post.errors.full_messages.each do |message| %>
+      <ul><% post.errors.full_messages.each do |message| %>
         <li><%= message %></li>
-      <% end %>
-      </ul>
+      <% end %></ul>
     </div>
   <% end %>
 
+<div class='field-container'>
+  <h3> SELL </h3>
   <div class="field">
     <%= f.label :name %>
     <%= f.text_field :name %>
-  </div>
-
-  <div class="field">
-    <%= f.label :price %>
-    <%= f.number_field :price %>
   </div>
 
   <div class="field">
@@ -27,18 +21,18 @@
   </div>
 
   <div class="field">
-    <%= f.check_box :used %>
-    <%= f.label :used %>
+    <%= f.label :price %>
+    <%= f.number_field :price %>
   </div>
 
   <div class="field">
-    <%= f.file_field :image %>
+    <%= f.check_box :used %>
+    <%= f.label :used %>
+    <%= f.file_field :image %><br>
   </div>
 
-  <div class="actions">
+  <div class="actions"><br>
     <%= f.submit %>
   </div>
-
-
-
+</div>
 <% end %>

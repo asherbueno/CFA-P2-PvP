@@ -14,3 +14,74 @@
  *= require_self
  */
  @import "materialize";
+
+.hello {
+
+ background-image: url("https://static.pexels.com/photos/310435/pexels-photo-310435.jpeg");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-color:#464646;
+}
+/* JUMBOTRON */
+
+.jumbotron-container h1 {
+padding-top: 470px;
+padding-left: 15px;
+font-family: 'Roboto', sans-serif;
+font-weight: 100;
+margin: 0px;
+text-align: center;
+font-size: 100px;
+letter-spacing: 30px;
+color: #EE6E73;
+}
+
+.card {
+  text-align: center;
+  justify-content: center;
+  display: inline-grid;
+  margin-left: 130px;
+  height: 350px;
+  width: 300px;
+}
+
+.card-image {
+  height: 300px;
+  width: 300px;
+}
+
+.post-index {
+  background-color: #8CDCDE;
+}
+
+.post-index h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100px;
+  text-align: center;
+  font-size: 80px;
+  color: #000;
+}
+
+.field label{
+  font-size: 16px;
+}
+
+.field-container {
+  background-color: white;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.field-container h3{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100px;
+  text-align: center;
+  font-size: 80px;
+  color: #000;
+}
+
+.row-donate {
+
+}

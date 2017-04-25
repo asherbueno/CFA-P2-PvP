@@ -5,7 +5,7 @@
 # Problem – Global Extreme Poverty
 ## End extreme poverty everywhere in the world by 2030.
 
-# Some facts about global poverty
+### Some facts about global poverty
 1. 3 Billion people lives on $2.50 USD.
 2. 22, 000 children die daily due to poverty.
 3. $60 Billion annually can end extreme global poverty. 
@@ -37,10 +37,21 @@ rails db:migrate
 rails s
 
 ```
-# Design Documentation and planning[
+# Design Documentation and planning
 
 ## User Journeys
 ## Wireframes
 ## User Strories
 ## Entity Relationship Diagram
 ## Project Plan & Estimation
+
+
+# Tools and Methodologies
+
+## Trello
+## Github
+## Testing
+## Code Review
+## Code Quality Tools
+
+#

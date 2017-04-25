@@ -3,6 +3,6 @@ class ApplicationController < ActionController::Base
   before_action :authenticate_user!
 
   def after_sign_in_path_for(resource)
-    profiles_path
+    pages_user_dashboard_path
   end
 end

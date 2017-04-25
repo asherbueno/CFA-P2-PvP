@@ -1,5 +1,5 @@
 <h1>CFA Project 2</h1>
-![alt text](http://i.imgur.com/B7bfjBQ.png)
+![Screenshot](1.png)
 <h3>Installation</h3>
 
 ```

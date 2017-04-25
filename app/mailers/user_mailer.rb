@@ -1,0 +1,9 @@
+class UserMailer < ApplicationMailer
+  default from: 'postmaster@sandboxe41c8f71c14f49acaaec14c46dd05f84.mailgun.org'
+
+  def send_welcome_email(user)
+    @user = user
+    mail(:to => @user.email, :subject => "Welcome!")
+  end
+
+end

@@ -49,6 +49,7 @@ GEM
     bindex (0.5.0)
     builder (3.2.3)
     byebug (9.0.6)
+    cancancan (1.16.0)
     climate_control (0.1.0)
     cocaine (0.5.8)
       climate_control (>= 0.0.3, < 1.0)
@@ -95,6 +96,7 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.6.4)
       mime-types (>= 1.16, < 4)
+    mailgun (0.11)
     materialize-sass (0.98.0)
       sass (~> 3.3)
     method_source (0.8.2)
@@ -211,11 +213,13 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  cancancan
   coffee-rails (~> 4.2)
   devise
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+  mailgun (~> 0.11)
   materialize-sass
   paperclip (~> 5.0.0)
   pg (~> 0.18)

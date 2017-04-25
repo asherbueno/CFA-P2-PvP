@@ -16,6 +16,7 @@ rails s
 <h1>Problem – Global Extreme Poverty</h1>
 <h2>End extreme poverty everywhere in the world by 2030.</h2><br>
 <h4>Some facts about global poverty</h4>
--	3 Billion people lives on $2.50 USD.
--	22, 000 children die daily due to poverty.
--	$60 Billion annually can end extreme global poverty. 
+
+1. 3 Billion people lives on $2.50 USD.
+2. 22, 000 children die daily due to poverty.
+3. $60 Billion annually can end extreme global poverty. 

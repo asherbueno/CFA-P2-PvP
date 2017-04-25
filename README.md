@@ -13,7 +13,7 @@ rails db:migrate
 rails s
 
 ```
-<h1>Problem – Global Extreme Poverty</h1><br>
+<h1>Problem – Global Extreme Poverty</h1>
 <h2>End extreme poverty everywhere in the world by 2030.</h2><br>
 <h4>Some facts about global poverty</h4>
 -	3 Billion people lives on $2.50 USD.

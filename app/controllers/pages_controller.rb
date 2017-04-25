@@ -7,4 +7,8 @@ skip_before_action :authenticate_user!, :only => [:landing]
 
   def donate
   end
+
+  def user_dashboard
+  
+  end
 end

@@ -1,7 +1,12 @@
 Rails.application.routes.draw do
   mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
   resources :profiles
-  resources :posts
+  resources :posts do
+    member do
+      resources :charges
+    end
+  end
+
   devise_for :users
   root 'pages#landing'
   get 'pages/donate'

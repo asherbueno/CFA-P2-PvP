@@ -41,6 +41,7 @@ rails s
 The idea is from the saying 'One man's trash is another man's treasure' So I wanted to design a simple web application where people can create an account to upload their unwanted things online. 
 
 ## User Journeys
+![nikeairmag](https://cloud.githubusercontent.com/assets/25731534/25416035/ea1ea146-2a7e-11e7-82e8-b41ef174eaff.jpg)
 ## Wireframes
 ## User Strories
 ## Entity Relationship Diagram

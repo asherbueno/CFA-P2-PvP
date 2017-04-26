@@ -38,6 +38,7 @@ rails s
 
 ```
 # Design Documentation and planning
+The idea is from the saying 'One man's trash is another man's treasure' So I wanted to design a simple web application where people can create an account to upload their unwanted things online. 
 
 ## User Journeys
 ## Wireframes

@@ -49,6 +49,8 @@ The idea is from the saying 'One man's trash is another man's treasure' So I wan
 <img width="443" alt="screen shot 2017-04-26 at 11 05 05" src="https://cloud.githubusercontent.com/assets/25731534/25461387/0a017904-2b2c-11e7-8277-735e31ec9008.png">
 
 ## User Stories
+<img width="1112" alt="screen shot 2017-04-27 at 09 38 39" src="https://cloud.githubusercontent.com/assets/25731534/25461664/9df9b454-2b2d-11e7-911f-eb85bcac302c.png">
+<img width="829" alt="screen shot 2017-04-27 at 09 42 35" src="https://cloud.githubusercontent.com/assets/25731534/25461717/e5c02d9a-2b2d-11e7-8f94-6bb056b1dbad.png"
 ## Entity Relationship Diagram
 ## Project Plan & Estimation
 
@@ -60,5 +62,4 @@ The idea is from the saying 'One man's trash is another man's treasure' So I wan
 ## Testing
 ## Code Review
 ## Code Quality Tools
-
-#
+<img width="1085" alt="2" src="https://cloud.githubusercontent.com/assets/25731534/25461662/9a3be4e0-2b2d-11e7-9f06-3094f94d4153.png">

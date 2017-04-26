@@ -63,3 +63,7 @@ The idea is from the saying 'One man's trash is another man's treasure' So I wan
 ## Code Review
 ## Code Quality Tools
 <img width="1085" alt="2" src="https://cloud.githubusercontent.com/assets/25731534/25461662/9a3be4e0-2b2d-11e7-9f06-3094f94d4153.png">
+
+# Improvements
+
+## Future

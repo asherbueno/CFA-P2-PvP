@@ -42,7 +42,13 @@ The idea is from the saying 'One man's trash is another man's treasure' So I wan
 
 ## User Journeys
 ## Wireframes
-## User Strories
+<img width="886" alt="screen shot 2017-04-26 at 11 00 49" src="https://cloud.githubusercontent.com/assets/25731534/25461386/0a016a4a-2b2c-11e7-8ff8-a7563fbf551b.png">
+<img width="590" alt="screen shot 2017-04-26 at 11 01 17" src="https://cloud.githubusercontent.com/assets/25731534/25461389/0a11375e-2b2c-11e7-82e7-543505ba8e77.png">
+<img width="960" alt="screen shot 2017-04-26 at 11 03 03" src="https://cloud.githubusercontent.com/assets/25731534/25461388/0a0192b8-2b2c-11e7-8a01-d6cb4b5c35cd.png">
+<img width="865" alt="screen shot 2017-04-26 at 11 04 04" src="https://cloud.githubusercontent.com/assets/25731534/25461390/0a178820-2b2c-11e7-8eca-1ebab2294405.png">
+<img width="443" alt="screen shot 2017-04-26 at 11 05 05" src="https://cloud.githubusercontent.com/assets/25731534/25461387/0a017904-2b2c-11e7-8277-735e31ec9008.png">
+
+## User Stories
 ## Entity Relationship Diagram
 ## Project Plan & Estimation
 

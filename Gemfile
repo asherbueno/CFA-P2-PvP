@@ -7,6 +7,7 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem 'bundler', '~> 1.14', '>= 1.14.6'
 gem 'rails_12factor'
 gem 'materialize-sass'
 gem 'devise'
